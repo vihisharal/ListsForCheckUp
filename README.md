@@ -128,3 +128,66 @@ A mobile operating system (OS) is software designed to manage hardware and servi
 - **Foldable Support**: Multi-resume APIs for split-screen apps.
 
 ---
+
+
+### **1. Official Documentation & Guides**
+- **Android Open Source Project (AOSP)**  
+  [AOSP Documentation](https://source.android.com/docs)  
+  *Includes architecture, kernel customization, and HAL guides.*  
+
+- **iOS Kernel Programming**  
+  [Apple Kernel Programming Guide (PDF)](https://developer.apple.com/library/archive/documentation/Darwin/Conceptual/KernelProgramming/About/About.html)  
+  *Apple’s official guide to XNU kernel internals (archived).*  
+
+- **Fuchsia OS Documentation**  
+  [Fuchsia.dev](https://fuchsia.dev/fuchsia-src/concepts)  
+  *Technical docs on Zircon kernel and Fuchsia’s microkernel architecture.*  
+
+---
+
+### **2. Academic Papers & Research**
+- **Android OS Architecture**  
+  [Android: A Comprehensive Framework (PDF)](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45542.pdf)  
+  *Google’s whitepaper on Android’s design philosophy.*  
+
+- **iOS Security Guide**  
+  [Apple iOS Security Whitepaper (PDF)](https://www.apple.com/business/docs/resources/iOS_Security_Guide.pdf)  
+  *Detailed security architecture of iOS.*  
+
+- **Linux Kernel for Embedded Systems**  
+  [Linux Kernel in Embedded Devices (PDF)](https://elinux.org/images/6/64/ELC2010-gross-kernel.pdf)  
+  *Optimizing Linux kernels for mobile hardware.*  
+
+---
+
+### **3. Books (Available as PDFs)**
+- **"Embedded Android" by Karim Yaghmour**  
+  [O’Reilly Link](https://www.oreilly.com/library/view/embedded-android/9781449327958/)  
+  *Customizing Android for embedded/mobile devices.*  
+
+- **"Mac OS X Internals" by Amit Singh**  
+  [PDF via Princeton](https://www.cs.princeton.edu/~cos426/OSXInternals.pdf)  
+  *Deep dive into macOS/iOS kernel (XNU).*  
+
+- **"Linux Device Drivers" by Corbet et al.**  
+  [Free PDF](https://lwn.net/Kernel/LDD3/)  
+  *Essential for writing mobile device drivers.*  
+
+---
+
+### **4. Tools to Generate Your Own PDF**
+- **LaTeX Templates**  
+  [Overleaf](https://www.overleaf.com/) – For technical documentation.  
+- **Markdown to PDF**  
+  Use [Typora](https://typora.io/) or [Pandoc](https://pandoc.org/).  
+
+---
+
+### **5. Free University Lectures (PDF Slides)**
+- **MIT: Operating Systems Engineering**  
+  [6.828 Lectures](https://pdos.csail.mit.edu/6.828/2021/schedule.html)  
+  *Includes mobile OS case studies.*  
+- **Stanford: iOS Kernel Debugging**  
+  [CS193P Slides](https://cs193p.sites.stanford.edu/)  
+
+---
